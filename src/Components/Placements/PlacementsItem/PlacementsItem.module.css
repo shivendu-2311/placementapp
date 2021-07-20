@@ -1,0 +1,32 @@
+.placement{
+    display: flex;
+    justify-content: space-between;
+    margin: 1rem;
+    padding-bottom: 1rem;
+    border-bottom: 1px solid #ccc;
+  }
+  
+  .placement h3 {
+    margin: 0 0 0.25rem 0;
+    
+  }
+  
+  .company {
+    font-style: italic;
+  }
+  
+  .offer {
+    margin-top: 0.25rem;
+    font-weight: bold;
+    color: 	#000000;
+    font-size: 1.25rem;
+
+  }
+  .button {
+    transition-duration: 0.2s;
+  }
+  
+  .button:hover {
+    background-color: #0077b5; 
+    color: white;
+  }
